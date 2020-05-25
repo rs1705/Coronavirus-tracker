@@ -1,0 +1,16 @@
+.App{
+  font-family: "Montserrat";
+}
+.App h1{
+  text-align: center;
+  font-size: 48px;
+}
+
+.Container{
+  text-align: center;
+  padding:0;
+}
+
+.App p{
+  text-align: center;
+}

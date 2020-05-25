@@ -1,0 +1,45 @@
+
+.DataCard{
+  font-family: "montserrat";
+  width:256px;
+  height:176px;
+  border:2px solid rgba(131, 123, 123,0.2);
+  border-radius: 5px;
+  text-align: center;
+  margin:32px 42px;
+  display:inline-block;
+  cursor: pointer;
+}
+
+.DataCard:hover{
+  border:2px solid rgba(131, 123, 123,0.5);
+  transition: 0.4s;
+
+}
+.DataCard h3{
+  margin:0;
+  padding:16px;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+.danger{
+  background-color: tomato;
+  color: white;
+}
+
+.success{
+  background-color: lightgreen;
+  color:white;
+}
+
+.info{
+  background-color:dodgerblue;
+  color:white;
+}
+
+
+.DataCard p{
+  font-size: 48px;
+  margin: 25px 0;
+  color:#444;
+}

@@ -8,5 +8,5 @@ const DataCard=(props)=>{
       <p>{props.data}</p>
     </div>
   );
-}
+};
 export default DataCard;

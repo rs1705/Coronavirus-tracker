@@ -1,0 +1,58 @@
+.DataCardGroup{
+  width:80%;
+  margin:0 auto;
+}
+
+table{
+  border:2px solid #ddd;
+  width:100%;
+  margin:0 auto;
+  border-collapse: collapse;
+  font-weight: 500;
+  
+}
+
+tr{
+  border-bottom: 1px solid #ddd;
+}
+td{
+  padding:8px;
+}
+
+
+.th-head{
+  text-align: center;
+  padding:16px;
+  background-color: rgba(240 , 240, 240, 0.5);
+  border:2px solid #ddd;
+}
+
+.td-data{
+  text-align: center;
+}
+
+.td-data-country{
+  text-align: left;
+  font-weight: 600;
+}
+
+.total-confirmed{
+  background-color: lightskyblue;
+  color: white;
+}
+.new-deaths{
+  background-color: tomato;
+  color:white;
+  font-weight: bold;
+
+}
+
+.new-confirmed{
+  background-color: #FFEEAA;
+    font-weight: bold;
+}
+.new-recovered{
+  background-color: lightgreen;
+  font-weight: 600;
+  color:#fff;
+}

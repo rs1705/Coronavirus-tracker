@@ -21,6 +21,7 @@
   padding:16px;
   font-size: 1.3rem;
   font-weight: 500;
+  border-radius: 2px;
 }
 .danger{
   background-color: tomato;
